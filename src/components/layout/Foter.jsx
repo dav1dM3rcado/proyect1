@@ -3,7 +3,8 @@ import oter from "../img/oter.png"
 
 export default function Foter  () {
   return (
-   <Container>
+  
+  <Container>
     <Row>
     <Col sm={12} md={4}>
       <img className="d-block w-100 " src={oter} alt="logo"/>
